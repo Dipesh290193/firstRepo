@@ -1,6 +1,4 @@
 # Ignore everything
-*
-ignore.txt
 .classpath
 .settings
-
+ignore.txt
